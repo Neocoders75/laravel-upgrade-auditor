@@ -4,7 +4,7 @@ Skill para agentes de IA (por ejemplo Claude) que **audita un proyecto Laravel e
 
 > **Estado: v0.1.** Probada por el autor en un proyecto Laravel real. Aun así, úsala primero sobre una copia de trabajo, nunca directamente en producción, y revisa cada salto antes de aprobarlo.
 
-**Probada en:** Laravel [versión inicial] → [versión final] · PHP [versión] · [tipo de alojamiento, por ejemplo hosting compartido o local con Laragon]
+**Probada en:** Laravel 10 → 13 · PHP 8.3 · Local con laragon
 
 ## Qué hace
 
